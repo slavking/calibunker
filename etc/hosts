@@ -1,0 +1,7 @@
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+
+127.0.0.1 localhost.localdomain localhost
+# Auto-generated hostname. Please do not remove this comment.
+23.94.75.60 holychan.virmach.com  holychan
+::1		localhost ip6-localhost ip6-loopback

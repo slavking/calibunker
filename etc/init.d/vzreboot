@@ -1,0 +1,11 @@
+#!/bin/bash
+# chkconfig: 6 00 99
+### BEGIN INIT INFO
+# Provides: vzreboot
+# Required-Start:
+# Required-Stop:
+# Default-Start:
+# Default-Stop: 6
+# Description: Creates Parallels Cloud Server reboot mark
+### END INIT INFO
+>/reboot
